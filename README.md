@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-The project was created by a command `npx create-next-app@latest [project name] --experimental-app`
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), and it has created by a command `npx create-next-app@latest [project name] --experimental-app`
 
 ## Getting Started
 
